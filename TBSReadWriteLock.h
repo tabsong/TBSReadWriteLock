@@ -1,9 +1,8 @@
 //
 //  TBSReadWriteLock.h
-//  QMapKit
 //
 //  Created by tabsong on 15/5/15.
-//  Copyright (c) 2015年 Tencent. All rights reserved.
+//  Copyright (c) 2015年 tabsong. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
